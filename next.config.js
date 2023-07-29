@@ -3,9 +3,7 @@ const nextConfig = {
     images: {
         domains: ['api-ninjas.com']
     },
-    experimental: {
-        appDir: true,
-      },
+    
 }
 
 
