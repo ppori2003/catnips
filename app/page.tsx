@@ -24,8 +24,8 @@ export default async function Home({ searchParams }: HomeProps) {
 
       <div className='mt-12 padding-x padding-y max-width' id='discover'>
         <div className='home__text-container'>
-          <h1 className='text-4xl font-extrabold'>Cat Finder</h1>
-          <p>Play with any cat for a day</p>
+          <h1 className='text-4xl font-extrabold'>Adoptable Cats</h1>
+          <p>Information available on all the cats below</p>
         </div>
 
         <div className='home__filters'>
