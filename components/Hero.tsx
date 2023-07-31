@@ -17,11 +17,11 @@ const Hero = () => {
     <div className="hero">
       <div className="flex-1 pt-36 padding-x">
         <h1 className="hero__title">    
-          Discover the Finest Feline Companionship – Engage Now
+          Discover the Finest Feline Companionship – Adpot Now 
         </h1>
 
         <p className="hero__subtitle">
-          Have a superior experience with your favourite cat just for a day
+          Have a superior experience with your favourite cat
         </p>
 
         <CustomButton
