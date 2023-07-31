@@ -1,7 +1,7 @@
 import { CarProps, FilterProps } from "@types";
 
 export const calculateCat = (min_weight: number, max_life_expectancy: number) => {
-  const basePricePerDay = 20; // Base rental price per day in dollars
+  const basePricePerDay = 985; // Base rental price per day in dollars
 
   // Calculate total rental rate per day
   const catRatePerDay = basePricePerDay + min_weight + max_life_expectancy;
